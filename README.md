@@ -80,4 +80,8 @@ Remember, if you have a synth that has not been used, add it.
 
 🧙🏼‍♂️
 
-#Awesome List of Presets for Github#
+#Awesome_List_of_Presets
+
+Are you a music producer? 
+Join us at:
+https://discord.gg/edmp
