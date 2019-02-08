@@ -57,11 +57,22 @@ Same name for all the files, including the folder.
 The only difference should be the file name extension. 
 Zip that folder and upload it. Post the link on the EDMP Discord, Awesome.
 
-As waveforms that we need, get more complex , example long, evolving pads - > 
+As presets that we need, get more complex, we will require new rules. 
+As always though, the main rule will be to always branch off from an existing, simpler preset. 
+This allows users to follow the synth-making process, i.e. see how to get from preset A to preset B. 
+And more importantly , it will keep our library free of any plagiarism.
+You will clearly see how we got from two points without borrowing any settings from another commercial sample pack.
 
 # Benefits
-Your name will be added as one of the contributors. 
+The best of all of this , is it is free and open-source. 
+It always will be and it is intended to help the beginner, intermediate and expert. 
+If you help by sharing your expertise, your name will be added as one of the contributors on the readme, and on Github if you have a profile. 
+
 You will benefit from everything that everyone else contributes. 
+So please share and please keep contributing new sounds, to keep this resource useful and alive! 
+
+# Final Notes
+Remember, if you have a synth that has not been used, add it. 
 
 > Engineering is true magic
 
