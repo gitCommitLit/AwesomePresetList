@@ -38,7 +38,7 @@ Explain why and back it up with facts.
 Preferably have the synth of the preset.
 So that you are able to precisely prove your point. 
 Give feedback on the preset constructively.
-“a futurbass supersaw has the settings… a, b and c.. as seen in : <link>, <link>, <link>
+“a futurbass supersaw has the settings… a, b and c.. as seen in : linktosong1 , linktosong2 , linktosong3
 
 # Forking Presets
 You can for presets, just try go from certain starting points/
